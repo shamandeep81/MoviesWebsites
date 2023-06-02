@@ -8,7 +8,7 @@ export default function Header() {
 		
         <div>
           	<nav class="navigation">
-			  <h1> intership</h1>
+			  <h1>Popular shows </h1>
 		</nav>
 		
         </div>
